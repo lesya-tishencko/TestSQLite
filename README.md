@@ -1,0 +1,1 @@
+ msbuild SQLite_ya_test_proj\SQLite_ya_test_proj.csproj
