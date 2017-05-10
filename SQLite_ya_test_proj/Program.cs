@@ -13,6 +13,7 @@ namespace SQLite_ya_test_proj
             }
 
             string path = args[0];
+            Console.WriteLine(path);
             DBHandler.DBCreateStructure();
             DBHandler.DBFillOrders(path);
 
